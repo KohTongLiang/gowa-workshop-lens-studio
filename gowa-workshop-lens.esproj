@@ -1,0 +1,52 @@
+studioVersion:
+  major: 5
+  minor: 18
+  patch: 1
+  build: 26022419
+  type: Public
+coreVersion: 348
+clientVersion: 13.78
+updateCheckpoint: 87
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: TL Gowa Workshop
+  lensDescriptors:
+    []
+  lensApplicableContext:
+    - live_camera
+    - reply_camera
+    - video_chat
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  platformBundlesEnabled: false
+  iconHash: 12e626740c83da0d24a6cf4623e7ebd1
+  videoPreviewHash: 321f3ae6777537273c1dbc3a5bdd114f
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.18.1.26022419
+  activationCamera: Front
+  sourceMapEnabled: false
+  shaderCacheInvalidationEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: f3d524c5-ac07-44a7-b03a-e07d591396ec
+  originalDocumentId: f3d524c5-ac07-44a7-b03a-e07d591396ec
+  packageId: ""
+  packageVersion: ""
+  gluboEnabled: false
