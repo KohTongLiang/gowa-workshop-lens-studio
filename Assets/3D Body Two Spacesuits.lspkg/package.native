@@ -1,0 +1,37 @@
+- !<NativePackageDescriptor/8a0af263-59a0-4fd0-b749-e56fe74d75c7>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 18
+    patch: 1
+    build: 26022419
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: This asset allows you to drive 3D characters with your body. comes with an example of using a suit on the Snapchatter. Learn more in the 3D Body Template guide
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 87
+  ExportUid: 903f948e-8818-427f-8a4d-bee89cd138a4
+  ComponentUid: 0c82eab6-181e-4657-90d9-b796fe8d77a2
+  PackagePolicy: CanBeUnpackedTransparent
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0

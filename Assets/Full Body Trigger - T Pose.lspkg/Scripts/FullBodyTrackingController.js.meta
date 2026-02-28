@@ -1,0 +1,88 @@
+- !<AssetImportMetadata/16edbf93-4e08-24f0-71ae-fbec8f186233>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> a28d9ad0-bdb9-426c-9c3e-c9b778a57704
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> a28d9ad0-bdb9-426c-9c3e-c9b778a57704
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: 15OWyVB3Ucy9aHj3cXZHa0
+  AssetDataMap:
+    JavaScriptAsset: !<own> b9584b31-6d76-47de-a5e3-7424d0b6fd65
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/b9584b31-6d76-47de-a5e3-7424d0b6fd65>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8a342004-ef1f-408b-b919-7131793304ef
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    LeftAnkle: false
+    LeftEar: false
+    LeftElbow: false
+    LeftEye: false
+    LeftHip: false
+    LeftKnee: false
+    LeftShoulder: false
+    LeftWrist: false
+    Neck: false
+    Nose: false
+    RightAnkle: false
+    RightEar: false
+    RightElbow: false
+    RightEye: false
+    RightHip: false
+    RightKnee: false
+    RightShoulder: false
+    RightWrist: false
+    advanced: false
+    customCamera: false
+    depth: false
+    deviceCameraTexture: false
+    hintScript: false
+    overrideCamera: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - advanced: false
+      Nose: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightEye: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftEye: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightEar: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftEar: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      Neck: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightShoulder: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightElbow: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightWrist: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftShoulder: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftElbow: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftWrist: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftHip: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftKnee: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      LeftAnkle: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightHip: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightKnee: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      RightAnkle: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+      overrideCamera: false
+      customCamera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      depth: !<float> 200.000000
+      hintScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      deviceCameraTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

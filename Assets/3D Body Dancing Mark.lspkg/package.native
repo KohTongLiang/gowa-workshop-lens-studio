@@ -1,0 +1,37 @@
+- !<NativePackageDescriptor/24960258-7b05-4f6c-8171-98b9ce9592fa>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 18
+    patch: 1
+    build: 26022419
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: This asset allows you to drive 3D characters with your body. comes with an example of using the character separately Learn more in the 3D Body Template guide
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 87
+  ExportUid: ee32b387-acea-4274-8258-cfa73840a543
+  ComponentUid: 1fd10c38-495c-407f-8826-80d86ddd8f5a
+  PackagePolicy: CanBeUnpackedTransparent
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0

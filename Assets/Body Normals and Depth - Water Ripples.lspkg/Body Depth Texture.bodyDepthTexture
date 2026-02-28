@@ -1,0 +1,5 @@
+- !<BodyDepthTexture/7c95b7ee-c3bd-4530-969a-9029eefde8cc>
+  PackagePath: ""
+  BodyIndex: 0
+  MinConfidence: 0.500000
+  TrackingScope: !<reference> 00000000-0000-0000-0000-000000000000

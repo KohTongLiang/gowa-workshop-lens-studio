@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/8e6eae72-a2f1-71d0-b6ae-897ec2e5a6dc>
+  ImportedAssetIds:
+    Texture: !<reference> 7c95b7ee-c3bd-4530-969a-9029eefde8cc
+  ImporterName: BodyDepthTextureImporter
+  PrimaryAsset: !<reference> 7c95b7ee-c3bd-4530-969a-9029eefde8cc
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: h92VaeAhLXUOf5iSHhymr
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

@@ -1,0 +1,126 @@
+- !<AssetImportMetadata/6d6c9fcb-a527-8ba0-c765-4940fd8bda34>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 32fa0c63-9fc3-4985-8411-33484b7c93d0
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 32fa0c63-9fc3-4985-8411-33484b7c93d0
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: 1ScPUB41vPeqfABHIahSjA
+  AssetDataMap:
+    JavaScriptAsset: !<own> a9cffaad-70b1-49d4-98e7-e0773ea61df1
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/a9cffaad-70b1-49d4-98e7-e0773ea61df1>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a5186b42-bc59-4b4a-87c3-627e9154e2c4
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    Head: false
+    LeftArm: false
+    LeftFoot: false
+    LeftForearm: false
+    LeftHand: false
+    LeftHandIndex1: false
+    LeftHandIndex2: false
+    LeftHandIndex3: false
+    LeftHandMiddle1: false
+    LeftHandMiddle2: false
+    LeftHandMiddle3: false
+    LeftHandPinky1: false
+    LeftHandPinky2: false
+    LeftHandPinky3: false
+    LeftHandRing1: false
+    LeftHandRing2: false
+    LeftHandRing3: false
+    LeftHandThumb1: false
+    LeftHandThumb2: false
+    LeftHandThumb3: false
+    LeftLeg: false
+    LeftUpLeg: false
+    RightArm: false
+    RightFoot: false
+    RightForearm: false
+    RightHand: false
+    RightHandIndex1: false
+    RightHandIndex2: false
+    RightHandIndex3: false
+    RightHandMiddle1: false
+    RightHandMiddle2: false
+    RightHandMiddle3: false
+    RightHandPinky1: false
+    RightHandPinky2: false
+    RightHandPinky3: false
+    RightHandRing1: false
+    RightHandRing2: false
+    RightHandRing3: false
+    RightHandThumb1: false
+    RightHandThumb2: false
+    RightHandThumb3: false
+    RightLeg: false
+    RightUpLeg: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - Head: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftArm: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftForearm: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHand: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightArm: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightForearm: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHand: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftUpLeg: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftLeg: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftFoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightUpLeg: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightLeg: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightFoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandThumb1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandThumb2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandThumb3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandIndex1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandIndex2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandIndex3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandMiddle1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandMiddle2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandMiddle3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandRing1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandRing2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandRing3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandPinky1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandPinky2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftHandPinky3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandThumb1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandThumb2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandThumb3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandIndex1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandIndex2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandIndex3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandMiddle1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandMiddle2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandMiddle3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandRing1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandRing2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandRing3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandPinky1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandPinky2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightHandPinky3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

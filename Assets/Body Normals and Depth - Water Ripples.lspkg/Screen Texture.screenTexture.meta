@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/a287d546-a41f-b9ab-e65b-429ff95df248>
+  ImportedAssetIds:
+    Texture: !<reference> 96a951b2-23ec-4faf-99e9-25547bc72c46
+  ImporterName: ScreenTextureImporter
+  PrimaryAsset: !<reference> 96a951b2-23ec-4faf-99e9-25547bc72c46
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: h92VaeAhLXUOf5iSHhymr
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

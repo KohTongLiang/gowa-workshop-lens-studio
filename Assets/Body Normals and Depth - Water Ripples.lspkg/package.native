@@ -1,0 +1,40 @@
+- !<NativePackageDescriptor/0114c452-fe91-4b06-8512-e854c4b95915>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 18
+    patch: 1
+    build: 26022419
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: |-
+    A complex example of using Body Normals and Depth textures. Uses multiple cameras to create a feedback loop to generate ripples that make it look like we pass through a sheet of water.
+    
+    Read more https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/person-normals-and-depth#multi-camera-effect
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 87
+  ExportUid: b3beebd1-cc6d-4395-89df-f62654d80a7e
+  ComponentUid: d77bd23c-eafa-46ee-9868-4556eef807ee
+  PackagePolicy: CanBeUnpackedTransparent
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
