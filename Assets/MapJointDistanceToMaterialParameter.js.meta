@@ -1,0 +1,68 @@
+- !<AssetImportMetadata/99e8d004-0f50-4937-b27e-05d8dffbbe7c>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 19e7b690-69ab-43d1-9817-0e6b1dd1a051
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 19e7b690-69ab-43d1-9817-0e6b1dd1a051
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> a26db136-1147-4c35-95b7-0754a2fa329c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/a26db136-1147-4c35-95b7-0754a2fa329c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2cf6cc6b-b966-48d7-8835-47a6e31f209e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    checkType: false
+    handType: false
+    jointGroupA: false
+    jointGroupB: false
+    material: false
+    parameter: false
+    remapInputMaxValue: false
+    remapInputMinValue: false
+    remapOutputMaxValue: false
+    remapOutputMinValue: false
+    setMaterialParameter: false
+    targetObject: false
+    visualizeDistance: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - handType: 0
+      checkType: 0
+      jointGroupA: !<string[]>
+        []
+      jointGroupB: !<string[]>
+        []
+      targetObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      visualizeDistance: false
+      setMaterialParameter: false
+      material: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      parameter: ""
+      remapInputMinValue: !<float> 0.000000
+      remapInputMaxValue: !<float> 0.000000
+      remapOutputMinValue: !<float> 0.000000
+      remapOutputMaxValue: !<float> 0.000000
+  ScriptTypes:
+    -
+      {}

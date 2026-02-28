@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/90177c27-9d0a-4436-bf4b-744c3f99cc7e>
+  ImportedAssetIds:
+    MicrophoneAudioTrack: !<reference> de9328e9-6ffd-40d8-825a-a1b43abc045f
+  ImporterName: MicrophoneAudioTrackImporter
+  PrimaryAsset: !<reference> de9328e9-6ffd-40d8-825a-a1b43abc045f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
